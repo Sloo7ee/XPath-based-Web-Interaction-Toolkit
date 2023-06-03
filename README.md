@@ -42,3 +42,5 @@ To extract XPath, follow these steps using the Chrome browser's inspection tool:
 5. In the context menu, hover over "Copy" and then click on "Copy XPath". The XPath for the selected element will be copied to the clipboard.
 
 You can now use the copied XPath in your code or wherever you need to reference that specific element on the webpage.
+
+or watch this video : https://youtu.be/s4pSzGRAzgk
