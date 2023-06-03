@@ -1,5 +1,10 @@
 ## "XPath-based Web Interaction Toolkit
 
+# Use :
+
+git clone https://github.com/Sloo7ee/XPath-based-Web-Interaction-Toolkit.git
+
+pip install -r requirements.txt
 ## idea : 
 
 1. `XPATHc(path)`
